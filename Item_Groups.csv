@@ -1,0 +1,295 @@
+﻿Item Group,Item
+Alcoholic Beverages,"Alcohol, Non-Food"
+Alcoholic Beverages,Beer
+Alcoholic Beverages,"Beverages, Alcoholic"
+Alcoholic Beverages,"Beverages, Fermented"
+Alcoholic Beverages,Wine
+Animal fats,"Butter, Ghee"
+Animal fats,Cream
+Animal fats,"Fats, Animals, Raw"
+Animal fats,"Fish, Body Oil"
+Animal fats,"Fish, Liver Oil"
+Animal Products,"Aquatic Animals, Others"
+Animal Products,Aquatic Plants
+Animal Products,Bovine Meat
+Animal Products,"Butter, Ghee"
+Animal Products,Cephalopods
+Animal Products,Cream
+Animal Products,Crustaceans
+Animal Products,Demersal Fish
+Animal Products,Eggs
+Animal Products,"Fats, Animals, Raw"
+Animal Products,"Fish, Body Oil"
+Animal Products,"Fish, Liver Oil"
+Animal Products,Freshwater Fish
+Animal Products,"Marine Fish, Other"
+Animal Products,"Meat, Aquatic Mammals"
+Animal Products,"Meat, Other"
+Animal Products,Milk - Excluding Butter
+Animal Products,"Molluscs, Other"
+Animal Products,Mutton & Goat Meat
+Animal Products,"Offals, Edible"
+Animal Products,Pelagic Fish
+Animal Products,Pigmeat
+Animal Products,Poultry Meat
+"Aquatic Products, Other",Aquatic Plants
+"Aquatic Products, Other","Meat, Aquatic Mammals"
+Cereals - Excluding Beer,Barley and products
+Cereals - Excluding Beer,"Cereals, other"
+Cereals - Excluding Beer,Maize and products
+Cereals - Excluding Beer,Millet and products
+Cereals - Excluding Beer,Oats
+Cereals - Excluding Beer,Rice and products
+Cereals - Excluding Beer,Rye and products
+Cereals - Excluding Beer,Sorghum and products
+Cereals - Excluding Beer,Wheat and products
+Eggs,Eggs
+"Fish, Seafood","Aquatic Animals, Others"
+"Fish, Seafood",Cephalopods
+"Fish, Seafood",Crustaceans
+"Fish, Seafood",Demersal Fish
+"Fish, Seafood",Freshwater Fish
+"Fish, Seafood","Marine Fish, Other"
+"Fish, Seafood","Molluscs, Other"
+"Fish, Seafood",Pelagic Fish
+Fruits - Excluding Wine,Apples and products
+Fruits - Excluding Wine,Bananas
+Fruits - Excluding Wine,"Citrus, Other"
+Fruits - Excluding Wine,Dates
+Fruits - Excluding Wine,"Fruits, other"
+Fruits - Excluding Wine,Grapefruit and products
+Fruits - Excluding Wine,Grapes and products (excl wine)
+Fruits - Excluding Wine,"Lemons, Limes and products"
+Fruits - Excluding Wine,"Oranges, Mandarines"
+Fruits - Excluding Wine,Pineapples and products
+Fruits - Excluding Wine,Plantains
+Grand Total,"Alcohol, Non-Food"
+Grand Total,Apples and products
+Grand Total,"Aquatic Animals, Others"
+Grand Total,Aquatic Plants
+Grand Total,Bananas
+Grand Total,Barley and products
+Grand Total,Beans
+Grand Total,Beer
+Grand Total,"Beverages, Alcoholic"
+Grand Total,"Beverages, Fermented"
+Grand Total,Bovine Meat
+Grand Total,"Butter, Ghee"
+Grand Total,Cassava and products
+Grand Total,Cephalopods
+Grand Total,"Cereals, other"
+Grand Total,"Citrus, Other"
+Grand Total,Cloves
+Grand Total,Cocoa Beans and products
+Grand Total,Coconut Oil
+Grand Total,Coconuts - Incl Copra
+Grand Total,Coffee and products
+Grand Total,Cottonseed
+Grand Total,Cottonseed Oil
+Grand Total,Cream
+Grand Total,Crustaceans
+Grand Total,Dates
+Grand Total,Demersal Fish
+Grand Total,Eggs
+Grand Total,"Fats, Animals, Raw"
+Grand Total,"Fish, Body Oil"
+Grand Total,"Fish, Liver Oil"
+Grand Total,Freshwater Fish
+Grand Total,"Fruits, other"
+Grand Total,Grapefruit and products
+Grand Total,Grapes and products (excl wine)
+Grand Total,Groundnut Oil
+Grand Total,Groundnuts
+Grand Total,Honey
+Grand Total,Infant food
+Grand Total,"Lemons, Limes and products"
+Grand Total,Maize and products
+Grand Total,Maize Germ Oil
+Grand Total,"Marine Fish, Other"
+Grand Total,"Meat, Aquatic Mammals"
+Grand Total,"Meat, Other"
+Grand Total,Milk - Excluding Butter
+Grand Total,Millet and products
+Grand Total,Miscellaneous
+Grand Total,"Molluscs, Other"
+Grand Total,Mutton & Goat Meat
+Grand Total,Nuts and products
+Grand Total,Oats
+Grand Total,"Offals, Edible"
+Grand Total,"Oilcrops Oil, Other"
+Grand Total,"Oilcrops, Other"
+Grand Total,Olive Oil
+Grand Total,Olives (including preserved)
+Grand Total,Onions
+Grand Total,"Oranges, Mandarines"
+Grand Total,Palm kernels
+Grand Total,Palm Oil
+Grand Total,Palmkernel Oil
+Grand Total,Peas
+Grand Total,Pelagic Fish
+Grand Total,Pepper
+Grand Total,Pigmeat
+Grand Total,Pimento
+Grand Total,Pineapples and products
+Grand Total,Plantains
+Grand Total,Potatoes and products
+Grand Total,Poultry Meat
+Grand Total,"Pulses, Other and products"
+Grand Total,Rape and Mustard Oil
+Grand Total,Rape and Mustardseed
+Grand Total,Rice and products
+Grand Total,Ricebran Oil
+Grand Total,"Roots, Other"
+Grand Total,Rye and products
+Grand Total,Sesame seed
+Grand Total,Sesameseed Oil
+Grand Total,Sorghum and products
+Grand Total,Soyabean Oil
+Grand Total,Soyabeans
+Grand Total,"Spices, Other"
+Grand Total,Sugar (Raw Equivalent)
+Grand Total,Sugar beet
+Grand Total,Sugar cane
+Grand Total,Sugar non-centrifugal
+Grand Total,Sunflower seed
+Grand Total,Sunflowerseed Oil
+Grand Total,Sweet potatoes
+Grand Total,"Sweeteners, Other"
+Grand Total,Tea (including mate)
+Grand Total,Tomatoes and products
+Grand Total,"Vegetables, other"
+Grand Total,Wheat and products
+Grand Total,Wine
+Grand Total,Yams
+Meat,Bovine Meat
+Meat,"Meat, Other"
+Meat,Mutton & Goat Meat
+Meat,Pigmeat
+Meat,Poultry Meat
+Milk - Excluding Butter,Milk - Excluding Butter
+Miscellaneous,Infant food
+Miscellaneous,Miscellaneous
+Offals,"Offals, Edible"
+Oilcrops,Coconuts - Incl Copra
+Oilcrops,Cottonseed
+Oilcrops,Groundnuts
+Oilcrops,"Oilcrops, Other"
+Oilcrops,Olives (including preserved)
+Oilcrops,Palm kernels
+Oilcrops,Rape and Mustardseed
+Oilcrops,Sesame seed
+Oilcrops,Soyabeans
+Oilcrops,Sunflower seed
+Pulses,Beans
+Pulses,Peas
+Pulses,"Pulses, Other and products"
+Spices,Cloves
+Spices,Pepper
+Spices,Pimento
+Spices,"Spices, Other"
+Starchy Roots,Cassava and products
+Starchy Roots,Potatoes and products
+Starchy Roots,"Roots, Other"
+Starchy Roots,Sweet potatoes
+Starchy Roots,Yams
+Stimulants,Cocoa Beans and products
+Stimulants,Coffee and products
+Stimulants,Tea (including mate)
+Sugar & Sweeteners,Honey
+Sugar & Sweeteners,Sugar (Raw Equivalent)
+Sugar & Sweeteners,Sugar non-centrifugal
+Sugar & Sweeteners,"Sweeteners, Other"
+Sugar Crops,Sugar beet
+Sugar Crops,Sugar cane
+Treenuts,Nuts and products
+Vegetable Oils,Coconut Oil
+Vegetable Oils,Cottonseed Oil
+Vegetable Oils,Groundnut Oil
+Vegetable Oils,Maize Germ Oil
+Vegetable Oils,"Oilcrops Oil, Other"
+Vegetable Oils,Olive Oil
+Vegetable Oils,Palm Oil
+Vegetable Oils,Palmkernel Oil
+Vegetable Oils,Rape and Mustard Oil
+Vegetable Oils,Ricebran Oil
+Vegetable Oils,Sesameseed Oil
+Vegetable Oils,Soyabean Oil
+Vegetable Oils,Sunflowerseed Oil
+Vegetables,Onions
+Vegetables,Tomatoes and products
+Vegetables,"Vegetables, other"
+Vegetal Products,"Alcohol, Non-Food"
+Vegetal Products,Apples and products
+Vegetal Products,Bananas
+Vegetal Products,Barley and products
+Vegetal Products,Beans
+Vegetal Products,Beer
+Vegetal Products,"Beverages, Alcoholic"
+Vegetal Products,"Beverages, Fermented"
+Vegetal Products,Cassava and products
+Vegetal Products,"Cereals, other"
+Vegetal Products,"Citrus, Other"
+Vegetal Products,Cloves
+Vegetal Products,Cocoa Beans and products
+Vegetal Products,Coconut Oil
+Vegetal Products,Coconuts - Incl Copra
+Vegetal Products,Coffee and products
+Vegetal Products,Cottonseed
+Vegetal Products,Cottonseed Oil
+Vegetal Products,Dates
+Vegetal Products,"Fruits, other"
+Vegetal Products,Grapefruit and products
+Vegetal Products,Grapes and products (excl wine)
+Vegetal Products,Groundnut Oil
+Vegetal Products,Groundnuts
+Vegetal Products,Honey
+Vegetal Products,Infant food
+Vegetal Products,"Lemons, Limes and products"
+Vegetal Products,Maize and products
+Vegetal Products,Maize Germ Oil
+Vegetal Products,Millet and products
+Vegetal Products,Miscellaneous
+Vegetal Products,Nuts and products
+Vegetal Products,Oats
+Vegetal Products,"Oilcrops Oil, Other"
+Vegetal Products,"Oilcrops, Other"
+Vegetal Products,Olive Oil
+Vegetal Products,Olives (including preserved)
+Vegetal Products,Onions
+Vegetal Products,"Oranges, Mandarines"
+Vegetal Products,Palm kernels
+Vegetal Products,Palm Oil
+Vegetal Products,Palmkernel Oil
+Vegetal Products,Peas
+Vegetal Products,Pepper
+Vegetal Products,Pimento
+Vegetal Products,Pineapples and products
+Vegetal Products,Plantains
+Vegetal Products,Potatoes and products
+Vegetal Products,"Pulses, Other and products"
+Vegetal Products,Rape and Mustard Oil
+Vegetal Products,Rape and Mustardseed
+Vegetal Products,Rice and products
+Vegetal Products,Ricebran Oil
+Vegetal Products,"Roots, Other"
+Vegetal Products,Rye and products
+Vegetal Products,Sesame seed
+Vegetal Products,Sesameseed Oil
+Vegetal Products,Sorghum and products
+Vegetal Products,Soyabean Oil
+Vegetal Products,Soyabeans
+Vegetal Products,"Spices, Other"
+Vegetal Products,Sugar (Raw Equivalent)
+Vegetal Products,Sugar beet
+Vegetal Products,Sugar cane
+Vegetal Products,Sugar non-centrifugal
+Vegetal Products,Sunflower seed
+Vegetal Products,Sunflowerseed Oil
+Vegetal Products,Sweet potatoes
+Vegetal Products,"Sweeteners, Other"
+Vegetal Products,Tea (including mate)
+Vegetal Products,Tomatoes and products
+Vegetal Products,"Vegetables, other"
+Vegetal Products,Wheat and products
+Vegetal Products,Wine
+Vegetal Products,Yams
